@@ -1,0 +1,6 @@
+Adicione seu nome à lista abaixo:
+
+OBS: É claro que, em uma situação real de projeto, suas alterações nos arquivos seriam correções e/ou melhorias. 
+Mas neste caso, apenas para fins de exercício do Pull Request, sua alteração é apenas a inclusão de seu nome!
+
+#000 - Sdlins Hub
