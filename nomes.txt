@@ -4,3 +4,4 @@ OBS: É claro que, em uma situação real de projeto, suas alterações nos arqu
 Mas neste caso, apenas para fins de exercício do Pull Request, sua alteração é apenas a inclusão de seu nome!
 
 #000 - Sdlins Hub
+#001 - Diego Fernandes de Paula
