@@ -5,4 +5,4 @@ Mas neste caso, apenas para fins de exercício do Pull Request, sua alteração 
 
 #000 - Sdlins Hub
 #001 - Diego Fernandes de Paula
-#002 - Weslley Silva
+
